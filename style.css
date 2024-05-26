@@ -4,7 +4,11 @@ body{
     padding: 0px;
     background-color: rosybrown;
 }
-
+.name{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;  
+}
 .container{
     display: flexbox;
     justify-content: center;
