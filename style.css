@@ -4,17 +4,6 @@ body{
     background-color: rosybrown;
 }
 
-.name{
-    display: flexbox;
-    justify-content: center;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    text-transform: capitalize;
-    text-decoration: underline;
-    color: aqua;
-}
-
-
 .container{
     display: flexbox;
     justify-content: center;
